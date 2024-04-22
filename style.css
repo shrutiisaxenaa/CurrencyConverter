@@ -1,0 +1,102 @@
+*{
+    margin:0;
+    padding: 0S;
+}
+h2{
+    font-family: "Monaco", Monaco, monospace;
+    font-size: 2rem;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #52796F;
+}
+.amount{
+    font-size: 1.5rem;
+    font-family: "Times New Roman", Times, serif;
+    font-weight: 500;
+    
+}
+.amount input{
+    margin-top: 0.5rem;
+}
+.container{
+    background-color: #83A88B;
+    padding: 2rem;
+    border-radius: 1rem;
+    min-height: 45vh;
+    width: 50vh;
+}
+form{
+    margin: 2rem 0 1rem 0;
+}
+form select, button, input{
+    width: 100%;
+    border: none;
+    outline: none;
+    border-radius: 0.75rem;
+}
+
+form input{
+    border: 1.5px solid #52796F;
+    font-size: 1.15rem;
+    height: 3rem;
+    padding-left: 0.5rem;
+    background-color: antiquewhite;
+}
+.dropdown{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 2rem;
+    
+    
+}
+.dropdown i{
+    font-size: 1.5rem;
+    margin-top: 1rem;
+    
+}
+.select-container img{
+    max-width: 2rem;
+    margin-left: 0.3rem;
+}
+.select-container{
+    border: 1.5px solid #52796F;
+    background-color: antiquewhite;
+    border-radius: 0.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 6.5rem;
+    
+    
+}
+.select-container select{
+    font-size: 1rem;
+    width: auto;
+}
+.msg{
+    margin: 2rem 0 2rem 0;
+    font-size: 1.5rem;
+    font-family: "Times New Roman", Times, serif;
+}
+form button{
+    height: 3rem;
+    background-color: #354F52;
+    font-weight: 545;
+    font-size: 1.20rem;
+    color: antiquewhite;
+    cursor: pointer;
+    font-family: "Times New Roman", Times, serif;
+}
+.select-container select{
+    background-color: antiquewhite;
+    padding: 0;
+}
+
+.from p{
+    font-size: 1rem;
+}
