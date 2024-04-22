@@ -18,7 +18,7 @@ Flags API: Provides flag images for different countries.
 Website: Flags API
 
 
-# How to Use
+## How to Use
 
 
 1) Select the currency you want to convert from in the "From" dropdown menu.
@@ -29,7 +29,7 @@ Website: Flags API
 
 
 
-# Installation
+## Installation
 
 
 1- Clone the repository: [git clone https://github.com/your-username/currency-converter.git](https://github.com/shrutiisaxenaa/CurrencyConverter)
